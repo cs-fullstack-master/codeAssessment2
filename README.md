@@ -1,5 +1,8 @@
 # codeAssessment2
 
+### Instructions
+Answer each question inside of the individual question files. Each file has the question paste inside of it.
+
 ### Problem 1
 Ask the user to enter a number. 
 Using the provided list of numbers, use a for loop to iterate the array and print out all the values that are smaller than the user input and print out all the values that are larger than the number entered by the user.
